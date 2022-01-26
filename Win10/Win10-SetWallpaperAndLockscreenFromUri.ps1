@@ -9,10 +9,10 @@
 # Parameters for source and destination for the Image file
 # Current script is edited to put the same image on LockScreen and Wallpaper
 
-$WallpaperURL = "WALLPAPERURL" # Change to your fitting
-$LockscreenUrl = "LOCKSCREENURL" # Change to your fitting
+$WallpaperURL = "https://drive.google.com/file/d/1SihTUvD4ukAJkxdmq7tVS4mswzNf6Pa3/view?usp=sharing" # Change to your fitting
+$LockscreenUrl = "https://drive.google.com/file/d/1T8Y5N270yt12wFDMDSpO5ibhZWSGUZ4c/view?usp=sharing" # Change to your fitting
 
-$ImageDestinationFolder = "c:\temp" # Change to your fitting - this is the folder for the wallpaper image
+$ImageDestinationFolder = "C:\Windows\Web\Wallpaper" # Change to your fitting - this is the folder for the wallpaper image
 $WallpaperDestinationFile = "$ImageDestinationFolder\wallpaper.png" # Change to your fitting - this is the Wallpaper image
 $LockScreenDestinationFile = "$ImageDestinationFolder\LockScreen.png" # Change to your fitting - this is the Lockscreen image
 
